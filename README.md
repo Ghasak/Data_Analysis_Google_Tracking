@@ -81,3 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Inspiration
 following this project from:
 * [1] (https://www.youtube.com/watch?v=Siyg1Wn5VDs&list=PLQVvvaa0QuDfWjcDi0GB1AsAuSCAb_JoX&index=1&frags=pl%2Cwn)
+
+## To add some keyboard keys use:
+<kbd>Ctrl</kbd>
