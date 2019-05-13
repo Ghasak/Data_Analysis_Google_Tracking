@@ -26,7 +26,7 @@ For MacBook Pro: X
 ## Steps
 ### make table
 This step is shown in the SQLite DataBase as following:
-
+![](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/1.png)
 
 ### serach data
 list of stop words is located here: in a format of list (English word)
