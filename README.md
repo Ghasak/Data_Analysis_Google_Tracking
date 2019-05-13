@@ -15,6 +15,14 @@ and then go to the Data & Personalization.
 The you will go to download your data:
 Grab them all to know more information that Google collect on you.
 
+## Getting Started
+We have created two VirtualEnv for each machine we are working and they are:
+
+```
+For MacPro     : Ghpylib37Conda
+For MacBook Pro: X
+```
+
 ## Steps
 ### make table
 ### serach data
