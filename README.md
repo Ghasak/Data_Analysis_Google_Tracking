@@ -10,7 +10,7 @@ While the file location is at:
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Then login to the following website from Google:
-![](https://myaccount.google.com/data-and-personalization)
+https://myaccount.google.com/data-and-personalization
 and then go to the Data & Personalization.
 The you will go to download your data:
 Grab them all to know more information that Google collect on you.
@@ -19,7 +19,7 @@ Grab them all to know more information that Google collect on you.
 ### make table
 ### serach data
 list of stop words is located here: in a format of list (English word)
-![](https://gist.github.com/sebleier/554280)
+https://gist.github.com/sebleier/554280
 
 ### Dynamically inserting into a Database with SQLite.
 ```
@@ -29,12 +29,22 @@ c.execute("INSERT INTO stuffToPlot (unix, datestamp, keyword, value) VALUES (?, 
 Get:
 c.execute("INSERT INTO words (unix, word) VALUES (?,?)", (d,w))
 ```
-![](https://pythonprogramming.net/sqlite-part-2-dynamically-inserting-database-timestamps/)
+https://pythonprogramming.net/sqlite-part-2-dynamically-inserting-database-timestamps/
 
 ### Folder Protection
 the folder Backup has the files that needed to this session.
 including the google Takeout and the mylife.db in SQLite.
 
+### Initializing the repository
+you will need to perform for bigger folders the following steps.
+* initalizing your repository:
+```
+ git lfs track "*.db" "*.xlsx" "*.csv"
+```
+* uploading everything to the Staging Area
+```
+git add . and check with git status
+```
 
 ### Prerequisites
 What things you need to install the software and how to install them
