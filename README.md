@@ -91,3 +91,11 @@ following this project from:
 
 ## To add some keyboard keys use:
 <kbd>Ctrl</kbd>
+## Adding more features:
+## Requirements
+Python 3.x <br />
+Packages: see **requirements.txt** <br />
+## Instructions
+1. Install all required packages
+2. Modify parameters if desired
+3. Run **folder/script.py**
