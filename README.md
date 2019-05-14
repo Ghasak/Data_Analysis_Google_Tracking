@@ -60,7 +60,8 @@ git add . and check with git status
 ### Working Progress ...
 Similar to the other configurations, we will add more features to our current python file.
 We will create a dynmaic figure that show the words that we googled in the past year.
-
+Adding the DataBase to our SQL-Studio App on MacBook.
+![]()
 
 ### Prerequisites
 What things you need to install the software and how to install them
