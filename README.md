@@ -1,6 +1,7 @@
 # Data Analysis of Google Tracking
 Through Google Databse and Tacking Takeout here we will show series of tips and ticks to learn how to
 * Build Search word Database.
+How about fetching some data from the original.
 * Creating Search over time video graphs.
 All Details for this project is located in ONENOTE Page under: Building Search Word DataBase Project.
 While the file location is at:
