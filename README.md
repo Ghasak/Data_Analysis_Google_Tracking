@@ -16,7 +16,7 @@ and then go to the Data & Personalization.
 The you will go to download your data:
 Grab them all to know more information that Google collect on you.
 
-## Getting Started
+## PART -ONE-
 We have created two VirtualEnv for each machine we are working and they are:
 
 ```
@@ -24,8 +24,8 @@ For MacPro     : Ghpylib37Conda
 For MacBook Pro: X
 ```
 
-## Steps
-### make table
+### Steps
+### Make Table
 This step is shown in the SQLite DataBase as following:
 ![](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/1.png)
 
@@ -42,6 +42,13 @@ Get:
 c.execute("INSERT INTO words (unix, word) VALUES (?,?)", (d,w))
 ```
 https://pythonprogramming.net/sqlite-part-2-dynamically-inserting-database-timestamps/
+
+## PART -TWO-
+We will crreate Search over time video graphs -Data Analysis of Google Takeout p.2
+the purpose is to develope such algorithm to give us a graph of one year searched words in google engine.
+You will need to finish **PART -ONE-** as you will need **mylife.db** DataBase
+### Step -1-
+
 
 ### Folder Protection
 the folder Backup has the files that needed to this session.
