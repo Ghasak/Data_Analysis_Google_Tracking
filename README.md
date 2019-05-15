@@ -48,6 +48,41 @@ We will crreate Search over time video graphs -Data Analysis of Google Takeout p
 the purpose is to develope such algorithm to give us a graph of one year searched words in google engine.
 You will need to finish **PART -ONE-** as you will need **mylife.db** DataBase
 ### Step -1-
+We will need to create a directory to export all images that will created located here:
+```
+cwd+\word_images_1yrwin_1dslide : 1 year window 1 day slide.
+```
+### Step -2-
+Connect to your current DataBase using:
+```
+conn = sqlite3.connect("mylife.db")
+```
+this will allow us to navigate our current database in the directory and we can apply our methods to find max or min values. To find max or min you can use
+```
+c.execute("SELECT max(unix) FROM words")
+```
+more details on SQLite can be found here: ![](https://docs.python.org/2/library/sqlite3.html)
+
+
+### Step -3-
+Using from the standard library (collections- High-performance container datatypes)
+More details are located here:
+![](https://docs.python.org/2/library/collections.html)
+```
+Example:
+from collections import Counter
+A = ['1','1','1','hello','hello','what']
+S = Counter(A)
+print(S)
+Results:
+Counter({'1': 3, 'hello': 2, 'what': 1})
+```
+
+
+### Step -4-
+Convert the Image files to a video: we will use the following code from
+![](https://www.pythonprogramming.net/deep-dream-video-python-playing-neural-network-tensorflow/)
+
 
 
 ## Folder Protection
