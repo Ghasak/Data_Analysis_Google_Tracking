@@ -50,11 +50,11 @@ You will need to finish **PART -ONE-** as you will need **mylife.db** DataBase
 ### Step -1-
 
 
-### Folder Protection
+## Folder Protection
 the folder Backup has the files that needed to this session.
 including the google Takeout and the mylife.db in SQLite.
 
-### Initializing the repository
+## Initializing the repository
 you will need to perform for bigger folders the following steps.
 * initalizing your repository:
 ```
@@ -65,13 +65,13 @@ you will need to perform for bigger folders the following steps.
 git add . and check with git status
 ```
 
-### Working Progress ...
+## Working Progress ...
 Similar to the other configurations, we will add more features to our current python file.
 We will create a dynmaic figure that show the words that we googled in the past year.
 Adding the DataBase to our SQL-Studio App on MacBook.
 ![](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/2.gif)
 
-### Prerequisites
+## Prerequisites
 What things you need to install the software and how to install them
 
 ```
