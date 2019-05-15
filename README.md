@@ -61,13 +61,13 @@ this will allow us to navigate our current database in the directory and we can 
 ```
 c.execute("SELECT max(unix) FROM words")
 ```
-more details on SQLite can be found here: ![](https://docs.python.org/2/library/sqlite3.html)
+more details on SQLite can be found here: https://docs.python.org/2/library/sqlite3.html
 
 
 ### Step -3-
 Using from the standard library (collections- High-performance container datatypes)
 More details are located here:
-![](https://docs.python.org/2/library/collections.html)
+https://docs.python.org/2/library/collections.html
 ```
 Example:
 from collections import Counter
@@ -81,7 +81,7 @@ Counter({'1': 3, 'hello': 2, 'what': 1})
 
 ### Step -4-
 Convert the Image files to a video: we will use the following code from
-![](https://www.pythonprogramming.net/deep-dream-video-python-playing-neural-network-tensorflow/)
+https://www.pythonprogramming.net/deep-dream-video-python-playing-neural-network-tensorflow/
 
 
 
