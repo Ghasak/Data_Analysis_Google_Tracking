@@ -11,8 +11,10 @@ While the file location is at:
 ## Project Results
 We will get a video shows all the words searched in past years in Google Engine.
 ![](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/video.gif)
+
+
 Full Video is available here:
-![](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/video.avi)
+[![Watch the video](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/1.png)](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/video.avi)
 
 
 ## Getting Started
