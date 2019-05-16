@@ -8,6 +8,11 @@ While the file location is at:
 * ~/Desktop/My_DATA_MP/Learning/[1] Data_Analysis_Python_Tricks.
 
 
+## Project Results
+We will get a video shows all the words searched in past years in Google Engine.
+![](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/video.gif)
+
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Then login to the following website from Google:
