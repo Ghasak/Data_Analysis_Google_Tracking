@@ -14,7 +14,7 @@ We will get a video shows all the words searched in past years in Google Engine.
 
 
 Full Video is available here:
-[![Watch the video](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/1.png)](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/video.avi)
+[![Watch the video]()](https://github.com/Ghasak/Data_Analysis_Google_Tracking/blob/master/video.avi)
 
 
 ## Getting Started
